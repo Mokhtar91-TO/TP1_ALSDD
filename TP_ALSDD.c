@@ -30,7 +30,7 @@ int main() {
     sortArray(arr, n);
 
     printf("Sorted array: ");
-    printArray(arr, n);
+    printArray(arr, n);//message for you 'hello'
 
     return 0;
 }
